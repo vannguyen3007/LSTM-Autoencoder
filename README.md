@@ -53,7 +53,11 @@ Using LSTM Autoencoder
 
 
 ![img_011](download.png)
-  
+ 
+ 
+The Autoencoder's process is to get some input data, pass it through the model, and obtain a reconstruction of the input. This is a tupe of `artificial neural network` used to learn `efficient data codings` is an `unsupervised` manner.
+
+The aim of autoencoder is to learn a representation (encoding) for a set of data, typically for `dimensionality reduction` by training the network to ignore signal "noise"
   
   
   
